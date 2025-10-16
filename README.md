@@ -17,13 +17,13 @@
 
 <br>
 
-- Soy un `programador junior` que se dedica a la creación de aplicaciones web.
-- En mis ratos libres, me gusta aprender conceptos sobre `entornos Linux`, ir al gimnasio y jugar ping pong.
-- 🧑🏻‍🏫 He estudiado un grado medio de [Sistema Microinformáticos y Redes](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html) y uno superior de [Desarrollo de Aplicaciones Web](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html).
+- Soy un `programador junior` dedicado a la creación y desarrollo de aplicaciones web eficientes y escalables.
+- En mis ratos libres, me gusta aprender conceptos sobre `programación y entornos Linux`.
+- Aparte del desarrollo web, me gusta ir al gimnasio y practicar tenis de mesa.
+- 🧑🏻‍🏫 Tengo un grado medio de [Sistema Microinformáticos y Redes](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/sistemas-microniformaticos-redes.html), un grado superior de [Desarrollo de Aplicaciones Web](https://todofp.es/que-estudiar/loe/informatica-comunicaciones/des-aplicaciones-web.html) y un máster sobre Desarrollo de Aplicaciones Web Full Stack.
 - 💫 Soy una persona `trabajadora y seria`.
-- 🧑🏻‍💻 Me encanta `aprender cosas nuevas sobre el ámbito`.
-- 🖥️ Me especializo en el stack tecnológico `MERN` ya que considero que ofrece una buena salida laboral.
-- 🧑🏻‍🎓 Actualmente estoy realizando un máster de Full-Stack Development en [Nuclio Digital School]([https://fpprofessionaleducation.tajamar.es/desarrollo-web-full-stack-multicloud/](https://nuclio.school/master-full-stack-developer/)).
+- 🧑🏻‍💻 Constantemente intento `aprender nuevos conceptos sobre la tecnología`.
+- 🖥️ Me gusta realizar `proyectos personales` que me ayudan a aprender conceptos nuevos y avanzar en mi carrera como desarrollador.
 - 💭 Estoy abierto a una `oportunidad de trabajo`, aquí puedes visitar [mi perfil de Linkedin](https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/).
 
 <br>
@@ -52,6 +52,10 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
+  &emsp;
+    <a>
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=plastic&logo=node.js&logoColor=white">
+    </a>
 </p>
 
 <picture>
@@ -96,20 +100,20 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" width="125"></a>
   &emsp;
-    <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" style="border-radius: 12px;" width="85"></a>
+    <a href="#"><img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=plastic&logo=neovim&logoColor=white" style="border-radius: 12px;" width="85"></a>
 </p>
 
 <h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture>Operative Systems</h2>
  
 <p align="center" style="display: flex; align-items: center; justify-content: center; gap: 8px;">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="border-radius: 12px;" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" width="80" style="border-radius: 12px;" /></a>
   &emsp;
-  <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" style="border-radius: 12px;" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=plastic&logo=arch-linux&logoColor=white" width="80" style="border-radius: 12px;" /></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" style="border-radius: 12px;" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white" width="80" style="border-radius: 12px;" /></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" width="120" style="border-radius: 12px;" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=white" width="80" style="border-radius: 12px;" /></a>
 </p>
 
 <h2 style="display: flex; align-items: center; gap: 14px;"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width = 50px>  </picture>Contact Me</h2>
