@@ -125,3 +125,7 @@
 	&emsp;
 	<a href="https://www.linkedin.com/in/marco-rodriguez-rey-b082361b9/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" width="75" alt="LinkedIn"/></a>
 </p>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
